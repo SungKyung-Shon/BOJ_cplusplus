@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\if statement">
+      <UniqueIdentifier>{de9c5635-189b-401a-8c82-af5911c8f7c0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\for statement">
+      <UniqueIdentifier>{efd9f5c3-eac5-4548-9d19-1e5e92c763be}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\while statement">
+      <UniqueIdentifier>{84b386fa-8ba3-419e-ae35-c34d195eb740}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\1D Array">
+      <UniqueIdentifier>{4e55d29c-9758-4d8f-8359-693083db45bf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Function">
+      <UniqueIdentifier>{5fc4dc24-1621-4d8f-bb3b-6a492d4bc93a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\String">
+      <UniqueIdentifier>{35745455-8497-49a7-8b5b-c94668ae74fd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Basic Mathematics1">
+      <UniqueIdentifier>{b4a832b6-4d64-4831-a61f-5aaee063ff4c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\recursion">
+      <UniqueIdentifier>{1be062ca-1c1b-4261-a43b-c6dc15e397f4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Sorting">
+      <UniqueIdentifier>{c9b7b949-f60e-4998-bc7b-381be227d9a3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="1330.cpp">
+      <Filter>소스 파일\if statement</Filter>
+    </ClCompile>
+    <ClCompile Include="9498.cpp">
+      <Filter>소스 파일\if statement</Filter>
+    </ClCompile>
+    <ClCompile Include="2753.cpp">
+      <Filter>소스 파일\if statement</Filter>
+    </ClCompile>
+    <ClCompile Include="14681.cpp">
+      <Filter>소스 파일\if statement</Filter>
+    </ClCompile>
+    <ClCompile Include="2884.cpp">
+      <Filter>소스 파일\if statement</Filter>
+    </ClCompile>
+    <ClCompile Include="2739.cpp">
+      <Filter>소스 파일\for statement</Filter>
+    </ClCompile>
+    <ClCompile Include="10950.cpp">
+      <Filter>소스 파일\for statement</Filter>
+    </ClCompile>
+    <ClCompile Include="8393.cpp">
+      <Filter>소스 파일\for statement</Filter>
+    </ClCompile>
+    <ClCompile Include="15552.cpp">
+      <Filter>소스 파일\for statement</Filter>
+    </ClCompile>
+    <ClCompile Include="2741.cpp">
+      <Filter>소스 파일\for statement</Filter>
+    </ClCompile>
+    <ClCompile Include="2742.cpp">
+      <Filter>소스 파일\for statement</Filter>
+    </ClCompile>
+    <ClCompile Include="11021.cpp">
+      <Filter>소스 파일\for statement</Filter>
+    </ClCompile>
+    <ClCompile Include="11022.cpp">
+      <Filter>소스 파일\for statement</Filter>
+    </ClCompile>
+    <ClCompile Include="2438.cpp">
+      <Filter>소스 파일\for statement</Filter>
+    </ClCompile>
+    <ClCompile Include="2439.cpp">
+      <Filter>소스 파일\for statement</Filter>
+    </ClCompile>
+    <ClCompile Include="10871.cpp">
+      <Filter>소스 파일\for statement</Filter>
+    </ClCompile>
+    <ClCompile Include="10952.cpp">
+      <Filter>소스 파일\while statement</Filter>
+    </ClCompile>
+    <ClCompile Include="10951.cpp">
+      <Filter>소스 파일\while statement</Filter>
+    </ClCompile>
+    <ClCompile Include="1110.cpp">
+      <Filter>소스 파일\while statement</Filter>
+    </ClCompile>
+    <ClCompile Include="10818.cpp">
+      <Filter>소스 파일\1D Array</Filter>
+    </ClCompile>
+    <ClCompile Include="2562.cpp">
+      <Filter>소스 파일\1D Array</Filter>
+    </ClCompile>
+    <ClCompile Include="2577.cpp">
+      <Filter>소스 파일\1D Array</Filter>
+    </ClCompile>
+    <ClCompile Include="3052.cpp">
+      <Filter>소스 파일\1D Array</Filter>
+    </ClCompile>
+    <ClCompile Include="1546.cpp">
+      <Filter>소스 파일\1D Array</Filter>
+    </ClCompile>
+    <ClCompile Include="15596.cpp">
+      <Filter>소스 파일\Function</Filter>
+    </ClCompile>
+    <ClCompile Include="11654.cpp">
+      <Filter>소스 파일\String</Filter>
+    </ClCompile>
+    <ClCompile Include="11720.cpp">
+      <Filter>소스 파일\String</Filter>
+    </ClCompile>
+    <ClCompile Include="1712.cpp">
+      <Filter>소스 파일\Basic Mathematics1</Filter>
+    </ClCompile>
+    <ClCompile Include="10872.cpp">
+      <Filter>소스 파일\recursion</Filter>
+    </ClCompile>
+    <ClCompile Include="10870.cpp">
+      <Filter>소스 파일\recursion</Filter>
+    </ClCompile>
+    <ClCompile Include="2750.cpp">
+      <Filter>소스 파일\Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="2751.cpp">
+      <Filter>소스 파일\Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="10989.cpp">
+      <Filter>소스 파일\Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="1427.cpp">
+      <Filter>소스 파일\Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="11650.cpp">
+      <Filter>소스 파일\Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="11651.cpp">
+      <Filter>소스 파일\Sorting</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
